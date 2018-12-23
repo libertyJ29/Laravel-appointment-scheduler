@@ -1,2 +1,2 @@
 # laravel-appointment-scheduler
-Appointment Scheduler made using Laravel and AngularJs
+Appointment Scheduler for a dentist developed using Laravel and AngularJs (old client project)
